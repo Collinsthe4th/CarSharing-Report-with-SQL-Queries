@@ -33,28 +33,35 @@ The four sheets (carsharing, temperature, weather, time) were downloaded as csv 
 
 ## BUSINESS QUESTIONS 
 (a) Please tell me which date and time we had the highest demand rate in 2017.
-— 5PM, 15TH JUNE, 2017
+
+**— 5PM, 15TH JUNE, 2017**
 
 (b) Give me a table containing the name of the weekday, month, and season in which we had the highest and lowest average demand throughout 2017. Please include the calculated average demand values as well.
-— HIGHEST (4.99): SUNDAY, JULY, FALL
-— LOWEST (3.05): MONDAY, JANUARY, SPRING
+
+**— HIGHEST (4.99): SUNDAY, JULY, FALL**
+**— LOWEST (3.05): MONDAY, JANUARY, SPRING**
 
 (c) For the weekday(s) selected in (b), please give me a table showing the average demand we had at different hours of that weekday throughout 2017. Please sort the results in descending order based on the average demand.
-— THERE IS A HIGH AVERAGE DEMAND RANGING FROM 5.2 - 5.6 DURING AFTERNOON HOURS TILL LATE EVENING AROUND 11AM TO 6PM ON SUNDAYS AND MONDAYS. WHILST THERE IS A LOW AVERAGE DEMAND OF 1.6 - 4.4 BETWEEN THE EARLY HOURS OF THE DAY (1AM-6AM) AND LATE HOURS IN THE NIGHT (10PM-12AM)
-— (RUN QUERY TO VIEW FULL TABLE)
+
+**— THERE IS A HIGH AVERAGE DEMAND RANGING FROM 5.2 - 5.6 DURING AFTERNOON HOURS TILL LATE EVENING AROUND 11AM TO 6PM ON SUNDAYS AND MONDAYS. WHILST THERE IS A LOW AVERAGE DEMAND OF 1.6 - 4.4 BETWEEN THE EARLY HOURS OF THE DAY (1AM-6AM) AND LATE HOURS IN THE NIGHT (10PM-12AM)**
+**— (RUN QUERY TO VIEW FULL TABLE)**
 
 
 (di) Please tell me what the weather was like in 2017. Was it mostly cold, mild, or hot? which weather condition (shown in the weather column) was the most prevalent in 2017?
-— THE WEATHER WAS MOSTLY MILD. 
+
+**— THE WEATHER WAS MOSTLY MILD.** 
 
 (dii) What was the average, highest, and lowest wind speed and humidity for each month in 2017? Please organize this information in two tables for the wind speed and humidity.
-— (RUN QUERY TO SEE FULL TABLES)
+
+**— (RUN QUERY TO SEE FULL TABLES)**
 
 (diii) Please also give me a table showing the average demand for each cold, mild, and hot weather in 2017 sorted in descending order based on their average demand.
-— (RUN QUERY TO SEE FULL TABLE)
-— HOT: 4.8, MILD: 4.02, COLD: 3.19
+
+**— (RUN QUERY TO SEE FULL TABLE)**
+**— HOT: 4.8, MILD: 4.02, COLD: 3.19**
 
 (e) Give me another table showing the information requested in (d) for the month we had the highest average demand in 2017 so that I can compare it with other months.
-— JULY HAD AN AVERAGE DEMAND OF 4.81 DURING MILD WEATHER WITH AN AVERAGE TEMPERATURE, HUMIDITY AND WINDSPEED OF 30.34, 64, AND 11.71 RESPECTIVELY. 
-— (RUN QUERY TO SEE FULL TABLE)
+
+**— JULY HAD AN AVERAGE DEMAND OF 4.81 DURING MILD WEATHER WITH AN AVERAGE TEMPERATURE, HUMIDITY AND WINDSPEED OF 30.34, 64, AND 11.71 RESPECTIVELY.**
+**— (RUN QUERY TO SEE FULL TABLE)**
 
